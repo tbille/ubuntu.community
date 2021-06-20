@@ -56,66 +56,65 @@
   </head>
 
   <body>
-    <header id="navigation" class="p-navigation is-dark">
-      <div class="p-navigation__row">
-        <div class="p-navigation__banner">
-          <div class="p-navigation__logo">
-            <a class="p-navigation__item" href="/">
-              <img class="p-navigation__image" src="https://assets.ubuntu.com/v1/c4f35e06-products-hero-ubuntu.svg" alt="Canonical" width="95">
-            </a>
+    <div class="l-site">
+      <header id="navigation" class="p-navigation is-dark">
+        <div class="p-navigation__row">
+          <div class="p-navigation__banner">
+            <div class="p-navigation__logo">
+              <a class="p-navigation__item" href="/">
+                <img class="p-navigation__image" src="https://assets.ubuntu.com/v1/c4f35e06-products-hero-ubuntu.svg" alt="Canonical" width="95">
+              </a>
+            </div>
+            <a href="#navigation" class="p-navigation__toggle--open" title="menu">Menu</a>
+            <a href="#navigation-closed" class="p-navigation__toggle--close" title="close menu">Close menu</a>
           </div>
-          <a href="#navigation" class="p-navigation__toggle--open" title="menu">Menu</a>
-          <a href="#navigation-closed" class="p-navigation__toggle--close" title="close menu">Close menu</a>
+          <nav class="p-navigation__nav">
+            <span class="u-off-screen">
+              <a href="#main-content">Jump to main content</a>
+            </span>
+            <ul class="p-navigation__items" role="menu">
+              <li class="p-navigation__link" role="menuitem">
+                <a class="p-navigation__link" href="{{ site.baseurl }}/about">About</a>
+              </li>
+              <li class="p-navigation__link" role="menuitem">
+                  <a class="p-navigation__link p-link--external" href="https://twitter.com/ubuntu">Twitter</a>
+              </li>
+              <li class="p-navigation__link" role="menuitem">
+                  <a class="p-navigation__link p-link--external" href="https://discourse.ubuntu.com">Discourse</a>
+              </li>
+            </ul>
+          </nav>
         </div>
-        <nav class="p-navigation__nav">
-          <span class="u-off-screen">
-            <a href="#main-content">Jump to main content</a>
-          </span>
-          <ul class="p-navigation__items" role="menu">
-            <li class="p-navigation__link" role="menuitem">
-              <a class="p-navigation__link" href="{{ site.baseurl }}/about">About</a>
-            </li>
-            <li class="p-navigation__link" role="menuitem">
-                <a class="p-navigation__link p-link--external" href="https://twitter.com/ubuntu">Twitter</a>
-            </li>
-            <li class="p-navigation__link" role="menuitem">
-                <a class="p-navigation__link p-link--external" href="https://discourse.ubuntu.com">Discourse</a>
-            </li>
-          </ul>
-        </nav>
-      </div>
-    </header>
+      </header>
 
-    <main id="main-content">
+      <main id="main-content">
+          <div class="row">
+            <div class="col-10">
+              <h2>{{ page.title }}</h2>
+            </div>
+          </div>
         <div class="row">
           <div class="col-10">
-            <h2>{{ page.title }}</h2>
+            {{ content }}
           </div>
         </div>
-      <div class="row">
-        <div class="col-10">
-          {{ content }}
-        </div>
-      </div>
-    </main>
+      </main>
 
-    <footer class="p-strip--light">
-      <nav class="row">
-        <div class="has-cookie">
-          <p>© 2021 Ubuntu dot community</p>
-          <ul class="p-inline-list--middot">
-            <li class="p-inline-list__item">
-              <a href="/feed.xml"><i class="p-icon--rss"></i></a>
-            </li>
-          </ul>
-          <ul class="p-inline-list--middot">
-            <li class="p-inline-list__item">
-              <a href=""><small>Report a bug on this site</small></a>
-            </li>
-          </ul>
-          <span class="u-off-screen"><a href="#">Go to the top of the page</a></span>
-        </div>
-      </nav>
-    </footer>
+
+
+      <footer class="l-footer--sticky p-strip--light">
+        <nav class="row" aria-label="Footer navigation">
+          <div class="has-cookie">
+            <p>© 2021 Ubuntu dot community</p>
+            <ul class="p-inline-list--middot">
+              <li class="p-inline-list__item">
+                <a href="#"><small>Report a bug on this site</small></a>
+              </li>
+            </ul>
+            <span class="u-off-screen"><a href="#">Go to the top of the page</a></span>
+          </div>
+        </nav>
+      </footer>
+    </div>
   </body>
 </html>
