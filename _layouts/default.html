@@ -35,7 +35,7 @@
       property="og:description"
       content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}"
     />
-    <meta property="og:image" content="" />
+    <meta property="og:image" content="https://assets.ubuntu.com/v1/c4f35e06-products-hero-ubuntu.svg" />
     <meta
       property="og:url"
       content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
@@ -47,7 +47,7 @@
       property="twitter:url"
       content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
     />
-    <meta property="twitter:image" content="">
+    <meta property="twitter:image" content="https://assets.ubuntu.com/v1/c4f35e06-products-hero-ubuntu.svg">
 
     <link
       rel="canonical"
@@ -74,7 +74,7 @@
             </span>
             <ul class="p-navigation__items" role="menu">
               <li class="p-navigation__link" role="menuitem">
-                <a class="p-navigation__link" href="{{ site.baseurl }}/about">About</a>
+                <a class="p-navigation__link" href="{{ site.baseurl }}/participate">Participate</a>
               </li>
               <li class="p-navigation__link" role="menuitem">
                   <a class="p-navigation__link p-link--external" href="https://twitter.com/ubuntu">Twitter</a>
@@ -87,10 +87,10 @@
         </div>
       </header>
 
-      <main id="main-content">
+      <main id="main-content" class="p-strip">
           <div class="row">
             <div class="col-10">
-              <h2>{{ page.title }}</h2>
+              <h1>{{ page.title }}</h1>
             </div>
           </div>
         <div class="row">
@@ -99,8 +99,6 @@
           </div>
         </div>
       </main>
-
-
 
       <footer class="l-footer--sticky p-strip--light">
         <nav class="row" aria-label="Footer navigation">
