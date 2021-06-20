@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ubuntu dot community
+title: Welcome to Ubuntu dot community
 ---
 
 Welcome o/ to ubuntu dot community, a community project to make navigating the Ubuntu Community simple. If you don’t see what you’re looking for please let us know. If it exists we’ll find it to make it more obvious, if it doesn’t, well, let’s get writing? 
