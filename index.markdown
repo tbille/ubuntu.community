@@ -11,4 +11,4 @@ Welcome o/ to ubuntu dot community, a community project to make navigating the U
 
 The success of the Ubuntu Project depends on a wide community of talented, passionate people. Anyone can contribute. If you’re new, or if you’ve been a part of the Ubuntu Community for over a decade, there’s something here for you. Get involved, start something new, support new users, support old users, foster more responsibility, anything. Have a look around. 
 
-While you’re looking, crack open the [Ubuntu Code of Conduct](https://www.ubuntu.com/about/about-ubuntu/conduct) and, before you start interacting with anyone, have a read through. It’s not very long but it is the rules by which we live so please be respectful. 
+While you’re looking, crack open the [Ubuntu Code of Conduct](https://www.ubuntu.com/about/about-ubuntu/conduct) and, before you start interacting with anyone, have a read through. It’s not very long but it is the rules by which we live so please be respectful.

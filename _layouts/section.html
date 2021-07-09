@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<section>
+    {{ content }}
+</section>
+  
+<section class="p-strip">
+<div class="row">
+    {% for page_sorted in page.order %}
+        {% for post in site.pages %}
+            {% assign current_page = post.dir | append: page_sorted %}
+            {% assign full_path = "/" | append: post.path %}
+            {% if current_page == full_path %}
+                <div class="col-4 p-card--highlighted">
+                    <a href="{{ post.url }}"> <h3 class="p-card__title">{{ post.title }}</h3></a>
+                    <p class="p-card__content">{{ post.description }}</p>
+                </div>
+            {% endif %}
+        {% endfor %}
+
+    {% endfor %}
+</div>
+</section>
+
