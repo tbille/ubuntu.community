@@ -1,6 +1,6 @@
 ---
 layout: section
-title: Participate in Ubuntu
+title: Participate
 order:
   - get-started.md
   - become-contributor.md
