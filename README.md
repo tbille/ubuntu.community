@@ -7,8 +7,9 @@ extra special new pages. The main objective is to help members of the Ubuntu com
 
 ## Steps to dot community :signal_strength:
 
-### 1. Have a look around ubuntu.community :house_with_garden:
-  The website this is all about. It is the road between the landmarks in the Ubuntu community.
+### 1. Have a look around [ubuntu.community](https://ubuntu.community) :house_with_garden:
+  
+  The website this is all about. It is the roadmap between the landmarks in the Ubuntu community.
 
 ### 2. Report a bug on the website :bug: 
 
