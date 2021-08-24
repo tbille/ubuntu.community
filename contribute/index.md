@@ -10,7 +10,7 @@ order:
   - plan-an-event.md
   - design.md
   - write-for-a-project.md
-  - what-happens-after-you-contribute
+  - what-happens-after-you-contribute.md
 ---
 
 There are countless ways that you can contribute to Ubuntu. We wouldn’t be able
