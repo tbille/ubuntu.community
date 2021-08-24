@@ -5,9 +5,9 @@ extra special new pages. The main objective is to help members of the Ubuntu com
 
 ** A logo of some kind should go here **
 
-## Steps to dot community:signal_strength: :
+## Steps to dot community :signal_strength:
 
-### 1. Have a look around ubuntu.community.:house_with_garden:
+### 1. Have a look around ubuntu.community :house_with_garden:
   The website this is all about. It is the road between the landmarks in the Ubuntu community.
 
 ### 2. Report a bug on the website :bug: 
