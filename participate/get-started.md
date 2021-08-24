@@ -4,17 +4,15 @@ title: Get started as a community member
 description: Want to join the Ubuntu community? A guide to where you can start for brand new users and long term users looking to get involved.
 ---
 
-# New users
+So you’re a new Ubuntu user? Maybe even a _new_ Ubuntu user? And you’re wondering; what else is there? How can I get involved in this ‘Ubuntu Community’ thing? Well. Let us tell you.
 
-So you’re an Ubuntu user? Maybe even a _new_ Ubuntu user? And you’re wondering; what else is there? How can I get involved in this ‘Ubuntu Community’ thing? Well. Let us tell you. 
-
-> Disclaimer: If you’re here looking to ask a support question, let me guide you to our support page instead. If you’re looking for an Ubuntu download button, let me guide you over there. This page is for users looking to _get involved_ in Ubuntu. 
+> Disclaimer: If you’re here looking to ask a support question, let me guide you to [our support page](https://ubuntu.community/support) instead. If you’re looking for an Ubuntu download button, let me guide you over there. This page is for users looking to _get involved_ in Ubuntu.
 
 ## Discourse
 
-The Ubuntu Discourse is the aptly named Ubuntu Community hub. If ubuntu dot community is the road between places in the community, Discourse is the town hall. We highly recommend you set up an account over there and join the discussion. 
+The Ubuntu Discourse is the aptly named Ubuntu Community hub. If ubuntu dot community is the road between places in the community, Discourse is the town hall. We highly recommend you set up an account over there and join the discussion.
 
-There are categories set up for all of the core aspects of Ubuntu itself and some related projects; Desktop, server, foundations, multipass, security, WSL, documentation, etc. And there is a community category, where anyone can create a topic to talk about their community projects and engagements. 
+There are categories set up for all of the core aspects of Ubuntu itself and some related projects; Desktop, server, foundations, multipass, security, WSL, documentation, etc. And there is a community category, where anyone can create a topic to talk about their community projects and engagements.
 
 Discourse is **_not_** a support forum though. If you want to discuss, give feedback, or present your ideas about Ubuntu, or Ubuntu related projects, then Discourse is the place to go. For technical questions or any other questions about Ubuntu or other projects, go to the support page or the project's specific location.  
 
