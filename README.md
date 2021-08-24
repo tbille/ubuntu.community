@@ -13,11 +13,11 @@ extra special new pages. The main objective is to help members of the Ubuntu com
 
 ### 2. Report a bug on the website :bug: 
 
-### 3. Have a suggestion for something you think we should feature 🖼️: 
+### 3. Have a suggestion for something you think we should feature 🖼️
   
-### 4. Looking to contribute something brand new 👶:
+### 4. Looking to contribute something brand new 👶
 
-### 5. Participate in the Ubuntu Community 💬: 
+### 5. Participate in the Ubuntu Community 💬
 
 Discourse
 UbuntuOnAir
