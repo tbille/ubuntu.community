@@ -31,4 +31,4 @@ If you’re interested in contributing to any or all of the following things it 
 * [Translations](https://wiki.ubuntu.com/Launchpad#Translations)
 * [Code Hosting](https://wiki.ubuntu.com/Launchpad#Code%20Hosting) using bazaar (not GitHub)
 
-Here’s a tutorial to make it easy.
+Here’s a tutorial to make it easy. (Obviously this needs writing (or even recording!?) when someone has time, yep, I'm looking at you :points out of screen:
