@@ -23,14 +23,15 @@ extra special new pages. The main objective is to help members of the Ubuntu com
 
 ### 5. Participate in the Ubuntu Community 💬
 
-- Discourse
-- UbuntuOnAir
-- Ubuntu Hideout
-- Ubuntu Podcast
-- Planet Ubuntu
-- The official Ubuntu blog
-- The fridge
-- Ubuntu social medias
+- [Discourse](https://discourse.ubuntu.com/)
+- [UbuntuOnAir](https://www.youtube.com/ubuntuonair)
+- [Ubuntu Hideout](https://ubuntuhideout.com/)
+- [Ubuntu Podcast](https://ubuntupodcast.org/)
+- [Planet Ubuntu](https://planet.ubuntu.com/)
+- [OMG! Ubuntu!](https://www.omgubuntu.co.uk/)
+- [The official Ubuntu blog](ubuntu.com/blog)
+- [The fridge](https://fridge.ubuntu.com/)
+- [Ubuntu social medias](https://twitter.com/ubuntu)
 
 ## Open tasks
 - [X] Finsih README
