@@ -9,33 +9,31 @@ extra special new pages. The main objective is to help members of the Ubuntu com
 
 ### 1. Have a look around [ubuntu.community](https://ubuntu.community) :house_with_garden:
   
-  The website this is all about. It is the roadmap between the landmarks in the Ubuntu community.
+  The website this is all about. It is the road map (not related to the actual Roadmap) between landmarks in the Ubuntu community.
 
 ### 2. Report a bug on the website :bug: 
 
+  At the bottom of each and every page is a link to report a bug on the site, this is currently not working. When someone make it work though it will simply take you to the new issues seciton of this very repo where you can indeed report a bug. The 'bug' label should already exist so make sure you use that 🐛
+
 ### 3. Have a suggestion for something you think we should feature 🖼️
+  Then let us know! Let us know damn it!!! You have a few options, since you're here reading this though your best option is probably to create a new issue in the repo with the 'enhancment' label. Leave a description of what you're thinking and maybe a plan forward, and we'll take a look. Of course, the alternative to that is to fork the repo and just try and contribute the future staight away ... 👀
   
 ### 4. Looking to contribute something brand new 👶
+   Then do it! Fork away, build away, and pull request. We'll see it and start the discussion or merge as necessary 😊
 
 ### 5. Participate in the Ubuntu Community 💬
 
-Discourse
-UbuntuOnAir
-Ubuntu Hideout
-Ubuntu Podcast
-Planet Ubuntu
-The official Ubuntu blog
-The fridge
-Ubuntu social medias
-Open tasks
-Create README
-Create landing page
-Create instructions for contributing pages
-Create directory structure
-
+- Discourse
+- UbuntuOnAir
+- Ubuntu Hideout
+- Ubuntu Podcast
+- Planet Ubuntu
+- The official Ubuntu blog
+- The fridge
+- Ubuntu social medias
 
 ## Open tasks
-- [ ] Finsih README
+- [X] Finsih README
 - [ ] Create landing page
 - [ ] Create instructions for contributing pages
 - [ ] Create directory structure
@@ -58,7 +56,7 @@ This repository falls under the official [Ubuntu Code of Conduct](https://ubuntu
 > represents the project officially or informally, claims affiliation with the project, or participates directly.”
 
 Anyone found breaking the CoC will be warned and or immediately removed from contributing and participating in this repo and in the Ubuntu dot
-community Discourse category. We have tolerance for possible misunderstandings but zero tolerance for inappropriate or hateful behaviour.   
+community Discourse category. We have tolerance for possible misunderstandings but zero tolerance for inappropriate or hateful behaviour. And yes, we will decide what the means thank you.   
 
 ## FAQs
 
